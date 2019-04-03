@@ -1,5 +1,11 @@
 ## HackJam React Native with Apollo/GraphlQL
 
+- Implement the Login Screen
+
+  - Add a username and a password (part 1)
+  - Add login with Google
+  - After login, It should redirect to the MovieList component
+
 - Implement the MovieList component
 
   - Data comes from the Apollo server in GraphQL
